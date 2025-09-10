@@ -1,4 +1,4 @@
-🚀 Calculadora em Bash (calculadora.sh)
+## 🚀 Calculadora em Bash (calculadora.sh)
 
 Script simples que executa operações matemáticas básicas diretamente no terminal.
 
@@ -10,7 +10,7 @@ Dê permissão de execução:
 Execute o script:
 `./calculadora.sh`
 
-🐍 Calculadora em Python (calculadora.py)
+## 🐍 Calculadora em Python (calculadora.py)
 
 Script que realiza operações de soma, subtração, multiplicação e divisão, rodando em loop até o usuário decidir sair.
 
