@@ -3,6 +3,7 @@
 Script simples que executa operações matemáticas básicas diretamente no terminal.
 
 Guia rapido de como executar:
+
 Dê permissão de execução:
 `chmod +x calculadora.sh`
 
